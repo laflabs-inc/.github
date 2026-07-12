@@ -1,0 +1,13 @@
+{
+  "name": "LafLabs Python CI",
+  "description": "Secure baseline CI for Python repositories.",
+  "iconName": "octicon code-square",
+  "categories": [
+    "Python"
+  ],
+  "filePatterns": [
+    "pyproject.toml$",
+    "requirements.*\\.txt$",
+    "setup.py$"
+  ]
+}

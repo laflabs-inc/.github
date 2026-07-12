@@ -1,0 +1,13 @@
+{
+  "name": "LafLabs Node.js CI",
+  "description": "Secure baseline CI for Node.js and TypeScript repositories.",
+  "iconName": "octicon code-square",
+  "categories": [
+    "Node",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}

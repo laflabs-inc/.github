@@ -16,7 +16,7 @@
 <br>
 
 [![Organization](https://img.shields.io/badge/GitHub-LafLabs%20Inc.-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/laflabs-inc)
-![Made in Korea](https://img.shields.io/badge/Built%20in-Korea-0F172A?style=flat-square)
+![Built in Korea](https://img.shields.io/badge/Built%20in-Korea-0F172A?style=flat-square)
 
 </div>
 
