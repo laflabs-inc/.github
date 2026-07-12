@@ -1,5 +1,7 @@
 # Repository Baseline
 
+> Repository 생성 및 이름 결정 전 [`REPOSITORY_NAMING.md`](./REPOSITORY_NAMING.md)를 먼저 확인하세요.
+
 새 Repository를 만들 때 사용하는 LafLabs 기본 체크리스트입니다.
 
 ## Required

@@ -48,3 +48,13 @@
 ---
 
 © LafLabs Inc.
+
+
+## Naming & Repository Standards
+
+Repository 생성과 명명은 다음 문서를 따릅니다.
+
+- [`docs/REPOSITORY_NAMING.md`](./docs/REPOSITORY_NAMING.md)
+- [`docs/ENGINEERING_NAMING_STANDARDS.md`](./docs/ENGINEERING_NAMING_STANDARDS.md)
+
+새 Repository는 이름뿐 아니라 Lifecycle, Description, Topics, Visibility까지 함께 정의하는 것을 권장합니다.
